@@ -1,0 +1,8 @@
+POST git-upload-pack (375 bytes)
+POST git-upload-pack (968 bytes)
+From https://github.com/108170218-myseneca/CSN400-Capstone
+ * branch            feat-body-text -> FETCH_HEAD
+ * [new branch]      feat-body-text -> origin/feat-body-text
+Auto-merging checkpoint3/conflict-resolution/index.html
+CONFLICT (content): Merge conflict in checkpoint3/conflict-resolution/index.html
+Automatic merge failed; fix conflicts and then commit the result.

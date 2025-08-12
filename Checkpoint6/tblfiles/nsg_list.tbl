@@ -1,0 +1,6 @@
+Location    Name       ProvisioningState    ResourceGroup      ResourceGuid
+----------  ---------  -------------------  -----------------  ------------------------------------
+canadaeast  LR-NSG-18  Succeeded            Student-RG-954177  b9c75af4-9989-4ad7-862a-e2038e0853dc
+canadaeast  LS-NSG-18  Succeeded            Student-RG-954177  d18cb571-defc-4555-9bd0-00d895baa6ee
+canadaeast  WC-NSG-18  Succeeded            Student-RG-954177  82930444-a11e-4861-ba52-3b5d3d0cc0b5
+canadaeast  WS-NSG-18  Succeeded            Student-RG-954177  398874aa-e3ab-458c-a55d-3886573713cd

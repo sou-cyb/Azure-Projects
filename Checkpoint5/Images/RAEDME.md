@@ -1,0 +1,1 @@
+Ensure that all my images are stored collectively in a single folder.

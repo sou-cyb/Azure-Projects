@@ -1,0 +1,6 @@
+Name    ResourceGroup      Location    Zones
+------  -----------------  ----------  -------
+LR-18   STUDENT-RG-954177  canadaeast
+LS-18   STUDENT-RG-954177  canadaeast
+WC-18   STUDENT-RG-954177  canadaeast
+WS-18   STUDENT-RG-954177  canadaeast
